@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile_banner.png" alt="Kathank Raithatha Profile Banner" width="100%" />
-</p>
-
 # Hi there! I'm Kathank Raithatha 👋
 
 <p align="center">
