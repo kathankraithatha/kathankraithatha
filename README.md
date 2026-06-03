@@ -27,12 +27,36 @@ I am a **Developer Relations Engineer** and **Software Developer** passionate ab
 
 ## 📊 Key Milestones & Impact
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Speaking-10%2B%20Tech%20Sessions-3b82f6?style=flat-square&logo=speaker" alt="Speaking Sessions" />
-  <img src="https://img.shields.io/badge/Writing-30k%2B%20Article%20Reads-8b5cf6?style=flat-square&logo=medium" alt="Medium Reads" />
-  <img src="https://img.shields.io/badge/Community-1000%2B%20Impacted-22d3ee?style=flat-square&logo=groups" alt="Developers Impacted" />
-  <img src="https://img.shields.io/badge/Experience-International%20Clients-accent?style=flat-square&logo=globe" alt="International Work" />
-</p>
+<div align="center">
+  <table style="width: 100%; border: none;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;">
+        <strong>🎙️ Public Speaking</strong><br/><br/>
+        <a href="#speaking">
+          <img src="https://img.shields.io/badge/10%2B-Tech%20Events-3b82f6?style=for-the-badge&logo=speaker&logoColor=white" alt="10+ Tech Events" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <strong>✍️ Content & Writing</strong><br/><br/>
+        <a href="#writing">
+          <img src="https://img.shields.io/badge/30k%2B-Article%20Reads-8b5cf6?style=for-the-badge&logo=medium&logoColor=white" alt="30k+ Reads" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <strong>🌍 Global Operations</strong><br/><br/>
+        <a href="#experience">
+          <img src="https://img.shields.io/badge/1%2B%20Years-Int'l%20Clients-06b6d4?style=for-the-badge&logo=globe&logoColor=white" alt="International Work" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <strong>🎓 Community Leadership</strong><br/><br/>
+        <a href="https://github.com/FlutterFlow">
+          <img src="https://img.shields.io/badge/Ambassador-FlutterFlow%20India-10b981?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow Ambassador" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
