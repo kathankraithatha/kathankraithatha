@@ -94,9 +94,9 @@ I break down complex concepts into simple, readable tutorials. My top articles o
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kathankraithatha&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=kathankraithatha&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathankraithatha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=kathankraithatha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
