@@ -91,16 +91,6 @@ I break down complex concepts into simple, readable tutorials. My top articles o
 
 ---
 
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=kathankraithatha&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
-  <br/>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=kathankraithatha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Reach Out!
 
 Whether you want to discuss a Developer Relations opportunity, mobile architecture, speaking at an event, or integrating AI into your product—feel free to connect!
