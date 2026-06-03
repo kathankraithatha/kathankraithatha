@@ -38,7 +38,9 @@ I am a **Developer Relations Engineer** and **Software Developer** passionate ab
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <strong>✍️ Content & Writing</strong><br/><br/>
-        <img src="https://img.shields.io/badge/30k%2B-Article%20Reads-8b5cf6?style=for-the-badge&logo=medium&logoColor=white" alt="30k+ Reads" />
+        <a href="https://medium.com/@kathankraithatha" target="_blank">
+          <img src="https://img.shields.io/badge/30k%2B-Article%20Reads-8b5cf6?style=for-the-badge&logo=medium&logoColor=white" alt="30k+ Reads" />
+        </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <strong>🌍 Global Operations</strong><br/><br/>
