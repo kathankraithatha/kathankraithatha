@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="profile_banner.png" alt="Kathank Raithatha Profile Banner" width="100%" />
+</p>
+
 # Hi there! I'm Kathank Raithatha 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Developer+Relations+Engineer;Flutter+%26+FlutterFlow+Specialist;Technical+Writer+%7C+30K%2B+Medium+Reads;Building+Developer+Ecosystems" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/kathank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
